@@ -1,4 +1,3 @@
-input {
-   color: blue;
-   background-color: antiquewhite;
+lightning-card{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
